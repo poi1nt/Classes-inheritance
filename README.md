@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2xniv6u26afmippt?svg=true)](https://ci.appveyor.com/project/poi1nt/classes-inheritance)
